@@ -1,4 +1,4 @@
-# (c) 2025 Full Name 
+# (c) 2025 Mecah Rose A. Lao & Pinklet Alyanna M. Cubian
 # A program to parse and manage a CSV file. 
  
 import os 
